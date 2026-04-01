@@ -1,0 +1,9 @@
+BASE_URL="https://jsonplaceholder.typicode.com"
+ENDPOINTS={
+    "posts":"/posts",
+    "users":"/users",
+    "comments":"/comments",
+    "todos":"/todos"
+}
+OUTPUT_DIR="outputs"
+ORDER_RECORD_COUNT=10000
